@@ -19,7 +19,7 @@
 </head>
 <body>
 	
-	<h1>UIUX</h1>
+	<h1>UI/UX</h1>
 
 	<div id="particles"></div>
 
